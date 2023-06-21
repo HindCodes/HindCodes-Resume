@@ -8,4 +8,4 @@
 
 ![image](https://github.com/HindCodes/HindCodesResume/assets/121991962/609f8c5f-6000-44dc-b558-e1ed7c687a43)
 
-## 🌟[CHECK OUT LINK](https://hindcodes.github.io/HindCodesResume/)🌟
+## 🌟[CHECK OUT LINK](https://hindcodes.github.io/HindCodes-Resume/)🌟
